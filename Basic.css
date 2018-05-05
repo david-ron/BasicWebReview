@@ -1,0 +1,27 @@
+h1{
+    color: blueviolet;
+    border: aqua;
+    font-weight: bolder;
+
+}
+li{
+   color: rgb(196, 216, 194);
+}
+p{
+    color: #009966;
+}
+/* a makes it transparent */
+h3
+{
+    color: rgba(255,97,0,1);
+}
+body{
+    background-size: 100%;
+    background: url(https://www.walldevil.com/wallpapers/a50/nature-nice-background-wallpapers.jpg);
+}
+div{
+    background: rgba(255,97,0,1);
+    border-width: 4px;
+    border-style: dashed;
+    width: 400px;
+}
